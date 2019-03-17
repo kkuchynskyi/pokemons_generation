@@ -5,5 +5,5 @@ This repo contains GAN for pokemon generating. Below, results of the network aft
 
 Dataset for training : https://www.kaggle.com/kvpratama/pokemon-images-dataset
 
-To train network or check it with preptrained weights run corresponding cells in main.ipynb. 
+To train network or check it with pretrained weights run corresponding cells in main.ipynb. 
 Change INPUT_DATA_DIR variable to your pokemon dir path.
